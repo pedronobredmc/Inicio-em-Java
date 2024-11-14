@@ -1,5 +1,3 @@
-package Codigos;
-
 import java.util.Scanner;
 public class media {
     public static void main(String[] args){
