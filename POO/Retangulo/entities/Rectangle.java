@@ -1,6 +1,7 @@
+package entities;
 public class Rectangle {
-    double width;
-    double height;
+    public double width;
+    public double height;
 
     public double area() {
         return width * height;
