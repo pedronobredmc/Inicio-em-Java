@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/POO/Circulo/Circulo.iml" filepath="$PROJECT_DIR$/POO/Circulo/Circulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/Introducao/Circulo/Circulo.iml" filepath="$PROJECT_DIR$/POO/Introducao/Circulo/Circulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inicio-em-Java.iml" filepath="$PROJECT_DIR$/Inicio-em-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
     </modules>
